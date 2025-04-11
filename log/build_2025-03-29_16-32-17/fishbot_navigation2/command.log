@@ -1,0 +1,1 @@
+Invoking command in '/home/wch/chapt7/chapt7_ws/src/build/fishbot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wch/chapt7/chapt7_ws/src/fishbot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/wch/chapt7/chapt7_ws/src/install/fishbot_navigation2

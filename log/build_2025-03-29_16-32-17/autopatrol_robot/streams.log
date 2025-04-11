@@ -1,0 +1,36 @@
+[0.476s] Invoking command in '/home/wch/chapt7/chapt7_ws/src/autopatrol_robot': PYTHONPATH=/home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/autopatrol_robot build --build-base /home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/build install --record /home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/install.log --single-version-externally-managed install_data
+[0.611s] running egg_info
+[0.612s] creating ../build/autopatrol_robot/autopatrol_robot.egg-info
+[0.612s] writing ../build/autopatrol_robot/autopatrol_robot.egg-info/PKG-INFO
+[0.612s] writing dependency_links to ../build/autopatrol_robot/autopatrol_robot.egg-info/dependency_links.txt
+[0.612s] writing entry points to ../build/autopatrol_robot/autopatrol_robot.egg-info/entry_points.txt
+[0.613s] writing requirements to ../build/autopatrol_robot/autopatrol_robot.egg-info/requires.txt
+[0.613s] writing top-level names to ../build/autopatrol_robot/autopatrol_robot.egg-info/top_level.txt
+[0.613s] writing manifest file '../build/autopatrol_robot/autopatrol_robot.egg-info/SOURCES.txt'
+[0.613s] reading manifest file '../build/autopatrol_robot/autopatrol_robot.egg-info/SOURCES.txt'
+[0.614s] writing manifest file '../build/autopatrol_robot/autopatrol_robot.egg-info/SOURCES.txt'
+[0.614s] running build
+[0.614s] running build_py
+[0.614s] creating /home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/build
+[0.614s] creating /home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/build/lib
+[0.614s] creating /home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/build/lib/autopatrol_robot
+[0.614s] copying autopatrol_robot/patrol_node.py -> /home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/build/lib/autopatrol_robot
+[0.614s] copying autopatrol_robot/__init__.py -> /home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/build/lib/autopatrol_robot
+[0.614s] running install
+[0.614s] running install_lib
+[0.615s] creating /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot
+[0.615s] copying /home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/build/lib/autopatrol_robot/patrol_node.py -> /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot
+[0.615s] copying /home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/build/lib/autopatrol_robot/__init__.py -> /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot
+[0.616s] byte-compiling /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot/patrol_node.py to patrol_node.cpython-310.pyc
+[0.616s] byte-compiling /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot/__init__.py to __init__.cpython-310.pyc
+[0.616s] running install_data
+[0.617s] creating /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/share/ament_index
+[0.617s] creating /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/share/ament_index/resource_index
+[0.617s] creating /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/share/ament_index/resource_index/packages
+[0.617s] copying resource/autopatrol_robot -> /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/share/ament_index/resource_index/packages
+[0.617s] copying package.xml -> /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/share/autopatrol_robot
+[0.617s] running install_egg_info
+[0.618s] Copying ../build/autopatrol_robot/autopatrol_robot.egg-info to /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot-0.0.0-py3.10.egg-info
+[0.618s] running install_scripts
+[0.631s] Installing patrol_node script to /home/wch/chapt7/chapt7_ws/src/install/autopatrol_robot/lib/autopatrol_robot
+[0.632s] writing list of installed files to '/home/wch/chapt7/chapt7_ws/src/build/autopatrol_robot/install.log'

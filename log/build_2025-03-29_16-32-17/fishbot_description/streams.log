@@ -1,0 +1,28 @@
+[0.269s] Invoking command in '/home/wch/chapt7/chapt7_ws/src/build/fishbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wch/chapt7/chapt7_ws/src/fishbot_description -DCMAKE_INSTALL_PREFIX=/home/wch/chapt7/chapt7_ws/src/install/fishbot_description
+[0.486s] -- The C compiler identification is GNU 11.4.0
+[0.639s] -- The CXX compiler identification is GNU 11.4.0
+[0.650s] -- Detecting C compiler ABI info
+[0.696s] -- Detecting C compiler ABI info - done
+[0.701s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.701s] -- Detecting C compile features
+[0.701s] -- Detecting C compile features - done
+[0.706s] -- Detecting CXX compiler ABI info
+[0.752s] -- Detecting CXX compiler ABI info - done
+[0.756s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.756s] -- Detecting CXX compile features
+[0.757s] -- Detecting CXX compile features - done
+[0.760s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.853s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.934s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.991s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.991s] -- Configured cppcheck include dirs: 
+[0.991s] -- Configured cppcheck exclude dirs and/or files: 
+[0.991s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.993s] -- Added test 'lint_cmake' to check CMake code style
+[0.994s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.998s] -- Added test 'uncrustify' to check C / C++ code style
+[0.998s] -- Configured uncrustify additional arguments: 
+[0.998s] -- Added test 'xmllint' to check XML markup files
+[0.999s] -- Configuring done
+[1.001s] -- Generating done
+[1.002s] -- Build files have been written to: /home/wch/chapt7/chapt7_ws/src/build/fishbot_description
